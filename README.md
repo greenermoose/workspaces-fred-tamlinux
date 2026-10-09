@@ -1,5 +1,9 @@
 # Workspaces with Desktop Mode (`fred.workspaces`)
 
+> [!IMPORTANT]
+> **Repository Frozen:** This repository is frozen and retained for historical reference as the Omarchy 1.x release suite. Active Tamlinux development for `fred.workspaces` has moved to the unified [Tamlinux](https://github.com/greenermoose/tamlinux) repository under [`desktop/plugins/fred.workspaces/`](https://github.com/greenermoose/tamlinux/tree/main/desktop/plugins/fred.workspaces).
+
+
 Part of Fred's `fred.*` plugin suite for [Tamlinux](https://github.com/greenermoose/tamlinux) (Fred's personal Linux workstation environment): a shell bar widget with dynamic all-monitor desktop sets, endpoint-based independent switching, rich window tooltips, and automatic display geometry detection.
 
 ![Workspaces with Desktop Mode](assets/screenshot.png)
